@@ -1,0 +1,17 @@
+.btn {
+  font-size: 30px;
+  text-decoration: none;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.btn:hover {
+  font-size: 50px;
+  text-decoration: underline;
+  opacity: 0.2;
+}
+
+@-webkit-keyframes anim1 {}
+
+@keyframes anim1 {}
+/*# sourceMappingURL=anim_trans.css.map */

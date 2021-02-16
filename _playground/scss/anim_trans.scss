@@ -1,0 +1,13 @@
+.btn {
+  font-size: 30px;
+  text-decoration: none;
+  transition: 0.5s;
+  &:hover {
+    font-size: 50px;
+    text-decoration: underline;
+    opacity: 0.2;
+  }
+}
+
+@keyframes anim1 {
+}

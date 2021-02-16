@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACH,SAAS,EAAE,IAAI;EACf,eAAe,EAAE,IAAI;EACrB,UAAU,EAAE,IAAI;CAMjB;;AATD,AAIE,IAJE,AAID,MAAM,CAAC;EACN,SAAS,EAAE,IAAI;EACf,eAAe,EAAE,SAAS;EAC1B,OAAO,EAAE,GAAG;CACb;;AAGH,UAAU,CAAV,KAAU",
+    "sources": [
+        "../scss/anim_trans.scss"
+    ],
+    "names": [],
+    "file": "anim_trans.css"
+}

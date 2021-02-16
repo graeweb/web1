@@ -1,0 +1,15 @@
+html {
+  font-size: 20px;
+}
+
+#box1 {
+  font-size: 30px;
+  width: 20em;
+  background-color: #aaa;
+}
+
+#box2 {
+  width: 20em;
+  background-color: #777;
+}
+/*# sourceMappingURL=unit.css.map */
